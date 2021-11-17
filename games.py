@@ -113,7 +113,7 @@ daquele lugar e pode voltar para casa com uma ótima história para contar... se
                 return True
 
         # If loser
-        elif not rock_paper_scissors():
+        else:
             skip()
             dramatic_print("""
     Demônio - Como eu disse, trato é trato... e você perdeu. Sua alma parece ser tão sem gosto quanto você, mas ainda
