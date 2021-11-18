@@ -1,5 +1,6 @@
 from time import sleep
 from games import *
+import random
 
 
 def dramatic_print(text):
